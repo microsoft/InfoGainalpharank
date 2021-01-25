@@ -1,5 +1,6 @@
 # Estimating alpha-Rank by Maximising Information Gain 
-This repository contains the code used for the experiments in "Estimating alpha-Rank by Maximising Information Gain" (TODO: Add link when ready).
+This repository contains the code used for the experiments in "Estimating alpha-Rank by Maximising Information Gain". 
+Paper is available [here](https://arxiv.org/abs/2101.09178).
 
 In particular it contains:
  1. An implementation of [ResponseGraphUCB](https://arxiv.org/abs/1909.09849).
